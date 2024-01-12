@@ -1,4 +1,4 @@
-#include "Player.h"
+#include "./Class/Hedder/Player.h"
 #include <Novice.h>
 
 //コンストラクタ

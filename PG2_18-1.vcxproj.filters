@@ -47,13 +47,13 @@
     <ClCompile Include="C:\KamataEngine\DirectXGame\base\StringUtility.cpp">
       <Filter>KamataEngine\Source</Filter>
     </ClCompile>
-    <ClCompile Include="Bullet.cpp">
+    <ClCompile Include="Class\Source\Bullet.cpp">
       <Filter>Class\Source</Filter>
     </ClCompile>
-    <ClCompile Include="Enemy.cpp">
+    <ClCompile Include="Class\Source\Enemy.cpp">
       <Filter>Class\Source</Filter>
     </ClCompile>
-    <ClCompile Include="Player.cpp">
+    <ClCompile Include="Class\Source\Player.cpp">
       <Filter>Class\Source</Filter>
     </ClCompile>
   </ItemGroup>
@@ -129,13 +129,13 @@
     <ClInclude Include="C:\KamataEngine\DirectXGame\base\StringUtility.h">
       <Filter>KamataEngine\Include</Filter>
     </ClInclude>
-    <ClInclude Include="Bullet.h">
+    <ClInclude Include="Class\Hedder\Bullet.h">
       <Filter>Class\Hedder</Filter>
     </ClInclude>
-    <ClInclude Include="Enemy.h">
+    <ClInclude Include="Class\Hedder\Enemy.h">
       <Filter>Class\Hedder</Filter>
     </ClInclude>
-    <ClInclude Include="Player.h">
+    <ClInclude Include="Class\Hedder\Player.h">
       <Filter>Class\Hedder</Filter>
     </ClInclude>
   </ItemGroup>

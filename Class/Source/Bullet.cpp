@@ -1,4 +1,4 @@
-#include "Bullet.h"
+#include "./Class/Hedder/Bullet.h"
 #include <Novice.h>
 
 //コンストラクタ
