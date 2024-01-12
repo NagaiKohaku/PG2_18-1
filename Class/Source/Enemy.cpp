@@ -1,4 +1,4 @@
-#include "./Class/Hedder/Enemy.h"
+#include "Enemy.h"
 #include <Novice.h>
 #include <math.h>
 

@@ -1,6 +1,6 @@
 #pragma once
 #include "Vector2.h"
-#include "./Class/Hedder/Bullet.h"
+#include "Bullet.h"
 
 class Player {
 

@@ -1,6 +1,6 @@
 #include <Novice.h>
-#include "Player.h"
-#include "Enemy.h"
+#include "./Class/Hedder/Player.h"
+#include "./Class/Hedder/Enemy.h"
 
 const char kWindowTitle[] = "LC1B_16_ナガイ_コハク_PG2_18-1";
 

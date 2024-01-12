@@ -1,6 +1,6 @@
 #pragma once
 #include "Vector2.h"
-#include "./Class/Hedder/Player.h"
+#include "Player.h"
 class Enemy {
 
 private:
